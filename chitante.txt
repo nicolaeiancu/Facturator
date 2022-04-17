@@ -1,0 +1,4 @@
+CHITANTE FACTURI PLATITE
+Chitanta aceasta atesta plata facturii cu urmatoarele date:
+ Nr:4 Client:Maria Data:02.04.21 Produse:prajitura
+

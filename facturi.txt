@@ -1,0 +1,35 @@
+1
+Nicusor
+31.03.21
+75
+apa, paine
+2
+Alex
+02.04.21
+120
+trusa unelte
+3
+Radu
+02.04.21
+200
+bere, carbuni
+4
+Maria
+02.04.21
+5
+prajitura
+5
+Ana
+03.04.21
+450
+mobilier, apa
+6
+Ale
+04.04.21
+30
+cutie ciocolata
+7
+Paul
+06.04.21
+50
+conserve, legume
